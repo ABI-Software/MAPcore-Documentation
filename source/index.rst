@@ -18,7 +18,6 @@ Here we provide instructions on how to use the various MAP visualization and int
    RatHeart
    MouseBrainStemLungs
    RatStomach
-   RatBladder
    RatSCG
    MouseColon
    UC10

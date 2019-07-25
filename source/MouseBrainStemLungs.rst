@@ -19,6 +19,13 @@ A 3D scaffold of the mouse thoracic cavity created using segmentation of longitu
    :width: 91%
    :align: center
    
+Below is an **introductory video** which explains how an anatomically based 3D thoracic shape of the lungs are generated. 
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/8FDcPuwWAQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+
 .. todo::
 	provide demo link 
 
@@ -65,9 +72,6 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
 Working with the interface
 **************************
 This section explains how to use more specific features of the interface.
-
-.. todo::
-      Highlight features/capabilities that are particular to this use-case.
 	   
 :ref:`Flatmap-Viewer`
 ^^^^^^^^^^^^^^^^^^^^^

@@ -1,2 +1,6 @@
 # Ignore any built documentation.
 build/
+
+# Ignore pyCharm project folder
+.idea/
+

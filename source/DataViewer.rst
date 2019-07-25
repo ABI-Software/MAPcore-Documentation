@@ -3,6 +3,8 @@
 Data Viewer
 ===========
 
+A module of the data portal designed for viewing and exporting Ephys and Genome data.  
+
 .. contents:: Contents:
    :local:
    :depth: 2
@@ -11,30 +13,93 @@ Data Viewer
 Overview
 ********
 
-This document describes how to use the data plotting viewer tool available on the SPARC Data Portal. Examples of this tool in action are available (link to specific use case pages here).
+This document describes how to use the data plotting viewer tool available on the SPARC Data Portal. Examples of this tool in action are available at: https://data-viewer-demo.netlify.com/
 
-.. todo::
-    Jesse - can you write a short paragraph explaining the technology used here. And probably come up with a better name for this tool :)
+This module has the ability to: 
+
+    - Plot Ephys CSV datasets on knowledgbase or Blackfynn.
+    - Plot Genome and other static CSV datasests.
+    - Navigate large datasets via the UI.
+    - Add and remove channels from plot and export.
+    - Export selected channels as CSV for use in Excel, or OpenCOR
 
 Viewer configuration
 ^^^^^^^^^^^^^^^^^^^^
-.. todo::
-    Add a basic description of the function of the viewer config widget to select what data is plotted?
+The viewer has two modes, for small and large datasests
+
+Small Datasets
+--------------
+Used for smaller datasets and has more control over exports. (All checked channels will be exported)
+
+.. figure:: _images/exportmode.png
+   :figwidth: 95%
+   :width: 90%
+   :align: center
+
+Large Datasets
+--------------
+Used to navigate larger datasets, it has search capability to plot desired channels
+
+.. figure:: _images/viewmode.png
+   :figwidth: 95%
+   :width: 90%
+   :align: center
+
+
 
 Interactive Graphics Controls
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. todo::
-    Check these and add any that are missing. Need to include the various types of actions that the user can do and what effect it has
+* Refine the view by draging over a region of interest
 
+.. figure:: _images/plot_refine.jpg
+   :figwidth: 95%
+   :width: 90%
+   :align: center
+
+.. ..
+
+.. figure:: _images/plot_refine_result.jpg
+   :figwidth: 95%
+   :width: 90%
+   :align: center
+
+* Add or remove data by clicking on it's label
+
+.. figure:: _images/select_channel.jpg
+   :figwidth: 45%
+   :width: 80%
+   :align: center
 The table below describes the effect of different user actions in the flatmap being displayed in this flatmap viewer.
 
 ======================= ==============
-User action?            Result
+User action             Result
 ======================= ==============
-Left                    Query for data relevant to the anatomical entity selected
+Left                    Zoom in via box selection
 ----------------------- --------------
-Middle 				    Zoom
+Middle 				    Zoom in via box selection
 ----------------------- --------------
-Right 					Pan
+Right 					None
+----------------------- --------------
+Double click			Reset View
 ======================= ==============
+
+
+CSV (Comma-Seperated Values) Exports
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+CSV files for use in Excel, OpenCOR, or your software of choice are available for export. 
+The selected data traces plotted will be exported into a version that is either CSV and/or OpenCOR compatible.
+
+Export as CSV
+~~~~~~~~~~~~~
+.. figure:: _images/exportCSV.png
+   :figwidth: 95%
+   :width: 90%
+   :align: center
+
+Data in Excel
+~~~~~~~~~~~~~
+.. figure:: _images/exported.png
+   :figwidth: 95%
+   :width: 90%
+   :align: center
 

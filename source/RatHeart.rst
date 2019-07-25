@@ -16,7 +16,7 @@ genes examined. To visualize the spatial distribution of the RNA message, the 15
 continuous field description using scaffold nodal parameters. Any one of the 154 genes can be selected to show the
 spatial variation of that transcript as a heat map. Rat heart neural pathway data showing the efferent connectome
 linking ICN cells in the left atrium and the SA node cells on the right atrium will be visualised in the next iteration
-of this use-case. Note that the treatment process needed to extract the cells for RNA-Seq analysis left that rat heart
+of this use-case. *Note* that the treatment process needed to extract the cells for RNA-Seq analysis left that rat heart
 in a very distorted state which was therefore not fitted with a scaffold. Instead corresponding locations of the ICN
 cells in the much less distorted 3Scan-processed heart were identified by eye and the cell information was transferred
 to that heart.
@@ -26,9 +26,6 @@ to that heart.
    :width: 90%
    :align: center
 
-
-.. todo::
-	This document guides a user of the SPARC Data Portal through the steps required to .......
 
 .. todo::
     add link to final portal URL that takes user straight to this dataset display.

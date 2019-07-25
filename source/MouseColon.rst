@@ -17,13 +17,13 @@ A 3D scaffold fitted to the structural data of mouse colon is visualized in the 
    :width: 95%
    :align: center
 
-Here is an **introductory video** which explains how a 3D scaffold fitted to the structural data of mouse colon is visualized.
+Below is an **introductory video** which explains how the structural data of mouse colon are mapped onto a 3D scaffold.
 
 .. raw:: html
 			
      <iframe width="560" height="315" src="https://www.youtube.com/embed/gX2Njaqbk7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-	
+
 .. todo::
     add link to final portal URL that takes user straight to this dataset display.
 

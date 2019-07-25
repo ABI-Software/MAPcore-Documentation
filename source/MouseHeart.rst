@@ -21,6 +21,11 @@ and its embedded neurons. Figure 1 illustrates an overview of the workflow.
    :width: 90%
    :align: center
 
+Below is an **introductory video** which explains the mapping of the mouse heart neurites from image to scaffold.
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/B0JKztUZFio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. todo::
 	This document guides a user of the SPARC Data Portal through the steps required to .......
