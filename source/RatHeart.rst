@@ -63,7 +63,7 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
 
 #. Step 5. Click on |open-control| icon to pop-up the drop-down menu. Visibility can be turned ON or OFF for each item.
 
-.. figure:: _images/use_case_4/Slide4aa.PNG
+.. figure:: _images/use_case_4/Slide4aa.png
    :figwidth: 61%
    :width: 51%
    :align: center
@@ -80,7 +80,7 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
  neuromodulation and cardiac function using qPCR or RNASeq. These have been mapped on the registered cells on the scaffold.
 Each cell has a unique ID.
 
-.. figure:: _images/use_case_4/Slide5a.PNG
+.. figure:: _images/use_case_4/Slide5a.png
    :figwidth: 61%
    :width: 51%
    :align: center
