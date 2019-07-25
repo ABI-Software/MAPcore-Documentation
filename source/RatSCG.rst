@@ -12,7 +12,7 @@ Rat Superior Cervical Ganglion
 Overview
 ********
 
-Mapping of neuroanatomical connectivity is illustrated using rat superior cervical ganglion (SCG) data from Steve Lewis’ group at CWRU and rat brainstem data from Don Bolser’s group at UFL. This knowledge is modelled in ApiNATOMY, and assimilated into the SPARC SciGraph, to demonstrate cross-domain data linkage. The Bolser and Lewis work has three major areas of physiological complementarity:
+Mapping of neuroanatomical connectivity is illustrated using rat superior cervical ganglion (SCG) data from Steve Lewis’ group at CWRU and rat brainstem data from Don Bolser’s group at UFL. This knowledge is modelled in `ApiNATOMY <http://open-physiology.org/demo/open-physiology-viewer/docs/>`_, and assimilated into the SPARC SciGraph, to demonstrate cross-domain data linkage. The Bolser and Lewis work has three major areas of physiological complementarity:
 
 **Larynx/Trachea**: The sensory (Bolser) and motor (Lewis) limbs of protective mechanisms for the upper respiratory tract are captured in the connectivity model. 
 
@@ -22,17 +22,10 @@ Mapping of neuroanatomical connectivity is illustrated using rat superior cervic
 
 Knowledge that links the above pathways provides a key means to discover multiple datasets (usually siloed behind institutional and collaborative divides) in these diverse physiology domains.
 
-.. todo:: 
-
-	mention the fiducial points?
-	
-	Fiducial points
-	tongue, epiglottis, larynx, common carotid artery, internal carotid artery, carotid sinus,
-	trachea, aortic arch, nucleus tractus solitarius, superior cervical ganglion, middle cervical ganglion
-	inferior cervical ganglion, ganglioglomerular nerve, internal carotid nerve plexus, external carotid nerve plexus
-	inferior larynageal nerve (ILN), external branch of ILN, superior larynageal nerve (SLN), external branch of SLN
-	medulla, midbrain, diencephalon, paraventricular nucleus, paravertebral ganglion T1
-
+.. figure:: _images/uc9_1.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
 
 .. todo::
 	This document guides a user of the SPARC Data Portal through the steps required to .......
@@ -41,32 +34,47 @@ Knowledge that links the above pathways provides a key means to discover multipl
 
 Step-by-step instructions 
 *************************
-.. todo:: 
-		Write steps + screenshots
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-Explain the steps to be followed by the end user on the web interface. 
+**Step 1**. *Right-click* on **pink rectangles** that symbolizes portion of nerve.
 
-#. Step 1 ....
+.. figure:: _images/uc9_2.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
 
-Add screenshot
+**Step 2**. *Left-click* on ‘Find edges connected to node’ to find neuronal routes conveyed by the selected nerve.
 
-.. .. figure:: _images/snip
-   :figwidth: 61%
-   :width: 51%
+.. figure:: _images/uc9_3.png
+   :figwidth: 95%
+   :width: 95%
    :align: center
    
-#. Step 2 ....
+**Step 3**. Neuronal routes conveyed by the SLN as shown below.
 
-Add screenshot 
+.. figure:: _images/uc9_4.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+
+**Step 4**. *Left-click* on ‘Find nodes and edges connected to node’ to find data relevant to structures connected by the selected nerve.
+
+.. figure:: _images/uc9_5.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+   
+**Step 5**. Structures connected by the SLN as shown below.
+
+.. figure:: _images/uc9_6.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
 
 Working with the interface
 **************************
 This section explains how to use more specific features of the interface.
-
-.. todo::
-      Highlight features/capabilities that are particular to this use-case.
 	   
 :ref:`Flatmap-Viewer`
 ^^^^^^^^^^^^^^^^^^^^^

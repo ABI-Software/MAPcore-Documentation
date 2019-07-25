@@ -1,5 +1,8 @@
 Mapping Cellular Gene Expression in the Rat Heart from Image to Scaffold
 =========================================================================
+.. |open-control| image:: /_images/open_control.png
+                      :width: 2 em
+					  
 .. contents:: Contents:
    :local:
    :depth: 2
@@ -26,61 +29,94 @@ to that heart.
    :width: 90%
    :align: center
 
-
-.. todo::
-    add link to final portal URL that takes user straight to this dataset display.
-
 Step-by-step instructions 
 *************************
-.. todo:: 
-		Write steps + screenshots
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-Explain the steps to be followed by the end user on the web interface. 
+**Step 1**. Click on the Heart on the flatmap to generate search results for heart.
 
-#. Step 1 ....
-
-Add screenshot
-
-.. .. figure:: _images/snip
-   :figwidth: 61%
-   :width: 51%
+.. figure:: _images/use_case_4/Slide1.png
+   :figwidth: 95%
+   :width: 72%
    :align: center
    
-#. Step 2 ....
+**Step 2**. Hover on 'Molecular Phenotype Distribution of Single Rat ICN Neurons' search result.
 
-Add screenshot 
+.. figure:: _images/use_case_4/Slide2.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
 
-Working with the interface
-**************************
-This section explains how to use more specific features of the interface.
+**Step 3**. Select the blue circle.
 
-.. todo::
-      Highlight features/capabilities that are particular to this use-case.
-	   
-:ref:`Flatmap-Viewer`
-^^^^^^^^^^^^^^^^^^^^^
-The :ref:`Flatmap-Viewer` represents a high-level view of overall connectivity of the autonomic nervous system.
-	
-:ref:`Scaffold-Viewer`
-^^^^^^^^^^^^^^^^^^^^^^
-:ref:`Scaffold-Viewer` is used to view the anatomical organ scaffold of the specific organ selected on the Flatmap.
-	
-:ref:`Data-Viewer`
-^^^^^^^^^^^^^^^^^^
-This viewer is used to view the *Electrocardiograph* data recorded with the experiment video. Refer the section :ref:`Data-Viewer`.
+.. figure:: _images/use_case_4/Slide3.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
 
+**Step 4**. The Scaffold Viewer tab opens and the fitted heart scaffold can be visualised. A number of lifted neuronal cells have been mapped and registered on the scaffold (purple spheres).
 
+.. figure:: _images/use_case_4/Slide4.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
 
+**Step 5**. Click on |open-control| icon to pop-up the drop-down menu. Visibility can be turned ON or OFF for each item.
 
+.. figure:: _images/use_case_4/Slide4aa.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
 
+**Step 6**. Hover on different regions to highlight the chambers separately.
 
+.. figure:: _images/use_case_4/Slide5.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
 
+**Step 7**. Each cell has been lifted and assayed for the expression of 154 genes selected as associated with neuromodulation and cardiac function using qPCR or RNASeq. These have been mapped on the registered cells on the scaffold. Each cell has a unique ID.
 
+.. figure:: _images/use_case_4/Slide5a.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
 
+**Step 8**. Click on the Flatmap tab again.
 
+.. figure:: _images/use_case_4/Slide6.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
 
+**Step 9**. Now click on the green circle in the same search result.
 
+.. figure:: _images/use_case_4/Slide7.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
+
+**Step 10**. The Data Viewer tab opens to view the gene expression data. Currently only a raw barplot is supported.
+In future, additional visualisation capabilities such as heatmap and clustering will be added.
+
+.. figure:: _images/use_case_4/Slide8.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
+
+**Step 11**. From the dropdown menu, more genes can be added to the plot.
+
+.. figure:: _images/use_case_4/Slide9.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
+
+**Step 12**. The plot will show the expression of each gene with a unique color for all the registered cells on the scaffold.
+
+.. figure:: _images/use_case_4/Slide10.png
+   :figwidth: 95%
+   :width: 72%
+   :align: center
 
 

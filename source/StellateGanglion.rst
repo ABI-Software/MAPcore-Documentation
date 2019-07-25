@@ -22,8 +22,6 @@ This document guides a user of the SPARC Data Portal through the steps required 
 Step-by-step instructions 
 *************************
 
-.. todo:: check these steps and update screen shot
-
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
 **Step 1**. Click on the **Stellate Ganglion** on the Flatmap.
@@ -43,38 +41,28 @@ the image-scaffold structure. Each cell will have electro-physiological data pro
    :width: 95%
    :align: center
 
-**Step 3**. Click on a cell in a sample to visualise the electro-physiological data associated with the cell. The data
-is illustrated within a new tab called Data Viewer. You can select different sweep or channel data for that cell in this
-tab.
+**Step 3**. In the current version, you would need to select the green circle from the search result to visualise the
+electro-physiological data associated with the samples.
 
-.. figure:: _images/stellate_scaffold_image_02.png
+.. figure:: _images/use_case_2/Slide3.png
    :figwidth: 95%
    :width: 95%
    :align: center
 
-**Step 4**. You can select different sweep or channel data for that cell in this tab.
 
-.. figure:: _images/sg_snip5.png
+**Step 4**. The data is illustrated within a new tab called Data Viewer.
+
+.. figure:: _images/use_case_2/Slide1.PNG
    :figwidth: 95%
    :width: 95%
    :align: center
 
-Working with the interface
-**************************
-This section explains how to use more specific features of the interface.
+**Step 4**. Click on |open-control| to open the control panel. You can select different sweep or channel data for that cell in this tab to visualise at the same time.
+You can also export the data as a CSV format file.
 
-.. todo::
-      Highlight features/capabilities that are particular to this use-case.
+.. figure:: _images/use_case_2/Slide2.PNG
+   :figwidth: 80%
+   :width: 95%
+   :align: center
 
-:ref:`Flatmap-Viewer`
-^^^^^^^^^^^^^^^^^^^^^
-The :ref:`Flatmap-Viewer` represents a high-level view of overall connectivity of the autonomic nervous system.
-	
-:ref:`Scaffold-Viewer`
-^^^^^^^^^^^^^^^^^^^^^^
-:ref:`Scaffold-Viewer` is used to view the anatomical organ scaffold of the specific organ selected on the Flatmap.
-	
-:ref:`Data-Viewer`
-^^^^^^^^^^^^^^^^^^
-This viewer is used to view the *Electrocardiograph* data recorded with the experiment video. Refer the section :ref:`Data-Viewer`.
 
