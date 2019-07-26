@@ -59,11 +59,11 @@ Viewer configuration
 
 The |open-control| icon at the top-left corner of the window brings up a menu of additional viewing controls:
 	
-	* :guilabel:`Reset View` - restore the initial view of the scaffold to the default state.
+	* :guilabel:`Reset View` - Restore the initial view of the scaffold to the default state.
 			
 	* :guilabel:`View All` - Zoom in or out to see all of the scaffold in its current orientation.
 			
-	* :guilabel:`Visibilty Controls` - checkboxes controlling visibility of each entity.
+	* :guilabel:`Visibilty Controls` - Checkboxes controlling visibility of each entity.
 			
 Clicking on the |open-control| icon closes this menu.
 
