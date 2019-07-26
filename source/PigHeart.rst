@@ -6,7 +6,6 @@ Mapping Cardiac Electromechanics in the Pig
 .. |scaffold-map-icon| image:: /_images/scaffold_map_icon.png
 						:width: 2 em
 
-
 .. contents:: Contents: 
    :local:
    :depth: 2
@@ -28,9 +27,6 @@ the response at the whole heart level.
 This document guides a user of the SPARC Data Portal through the steps required to discover some data looking at
 autonomic control of the heart.
 
-.. todo::
-    add link to final portal URL that takes user straight to this dataset display.
-
 Step-by-step instructions 
 *************************
 
@@ -39,13 +35,12 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
 **Step 1:** The default **Result** column displays some of the use cases available on the portal. Click on
 *Mapping Cardiac Electromechanics in the Pig* box.
 
-
 .. figure:: _images/pig_slide1.png
    :figwidth: 95%
    :width: 90%
    :align: center
    
-**Step 2:** Now click on the |scaffold-icon| to open the **Scaffold Viewer** tab to visualise the heart scaffold.
+**Step 2:** Click on the |scaffold-map-icon| to open the **Scaffold Viewer** tab to visualise the heart scaffold.
 
 .. figure:: _images/pig_slide2.png
    :figwidth: 95%
@@ -57,7 +52,7 @@ In addition a 64-electrode patch mesh has been constructed from the original ele
 ventricular epicardium. Electro-physiological data recorded from this patch has been registered on the mesh and a field
 is displayed on the surface of this mesh. This mesh is then *embedded* on the corresponding surface of the scaffold.
 
-Press *play* to see the video.
+Press **play** to see the video.
 
 .. figure:: _images/pig_slide3.png
    :figwidth: 95%
@@ -74,7 +69,7 @@ tissue.
    :width: 90%
    :align: center
 
-**Step 4:** By clicking on |open-control| you can control visibility of each of the graphical objects in the scene.
+**Step 5:** By clicking on |open-control| you can control visibility of each of the graphical objects in the scene.
 
 .. figure:: _images/pig_slide5.png
    :figwidth: 95%
