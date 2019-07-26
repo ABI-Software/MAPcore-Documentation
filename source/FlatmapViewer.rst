@@ -5,7 +5,7 @@
 
 .. |flatmap-icon| image:: /_images/flatmap_icon.png
                       :width: 10 %
-					  
+
 |flatmap-icon| Flatmap Viewer
 =============================
 
@@ -57,6 +57,6 @@ Node queries are made using the ``right-click`` context menu.
 Map interaction
 ^^^^^^^^^^^^^^^
 
-Besides zoom and pan, using standard mouse or touch-pad controls, a ``left-click`` will query for knowledge
+Besides zoom and pan, using standard mouse or touchpad controls, a ``left-click`` will query for knowledge
 about the current anatomical entity, and a ``right-click`` will show a context menu, allowing the different node
 connectivity queries to be made.
