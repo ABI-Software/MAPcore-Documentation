@@ -3,7 +3,9 @@ Mapping Gene Expression in the Mouse Lungs from Images to Scaffold
 ===================================================================		
 .. |open-control| image:: /_images/open_control.png
                       :width: 2 em	
-					  
+
+.. |scaffold-map-icon| image:: /_images/scaffold_map_icon.png					  
+						:width: 2 em				  
 .. contents:: Contents: 
    :local:
    :depth: 2
@@ -26,10 +28,6 @@ Below is an **introductory video** which explains how an anatomically based 3D t
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/8FDcPuwWAQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 
-.. todo::
-	provide demo link 
-
-
 Step-by-step instructions 
 *************************
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
@@ -41,65 +39,26 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :width: 95%
    :align: center
    
-**Step 2.** Select **Data for Mouse Lungs** from the search results. Click on scaffold icon. 
+**Step 2.** Select **Data for Mouse Lungs** from the search results. Click on |scaffold-map-icon| icon. 
 
 .. figure:: _images/lungs_02.png
    :figwidth: 95%
    :width: 95%
    :align: center
    
-**Step 3.** Click on the left and right lungs to highlight them in **green**.
+**Step 3.**  Allow model to load.
 
 .. figure:: _images/lungs_03.png
    :figwidth: 95%
    :width: 95%
    :align: center
 
-**Step 4.** Click on |open-control| icon to pop-up the drop-down menu.
+**Step 4.** Click on |open-control| icon for drop-down menu. Select only RML10x007 checkbox and zoom to view the confocal images in the right middle lobe(RML).
 
 .. figure:: _images/lungs_04.png
    :figwidth: 95%
    :width: 95%
    :align: center
-
-**Step 5.** Visibility can be turned ON or OFF for the items. 
-
-.. figure:: _images/lungs_05.png
-   :figwidth: 95%
-   :width: 95%
-   :align: center
-
-Working with the interface
-**************************
-This section explains how to use more specific features of the interface.
-	   
-:ref:`Flatmap-Viewer`
-^^^^^^^^^^^^^^^^^^^^^
-The :ref:`Flatmap-Viewer` represents a high-level view of overall connectivity of the autonomic nervous system.
-	
-:ref:`Scaffold-Viewer`
-^^^^^^^^^^^^^^^^^^^^^^
-:ref:`Scaffold-Viewer` is used to view the anatomical organ scaffold of the specific organ selected on the Flatmap.
-	
-:ref:`Data-Viewer`
-^^^^^^^^^^^^^^^^^^
-This viewer is used to view the *Electrocardiograph* data recorded with the experiment video. Refer the section :ref:`Data-Viewer`.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
