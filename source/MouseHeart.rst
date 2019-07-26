@@ -22,7 +22,7 @@ geometric dataset. Future experiments are likely to provide much better quality 
 and its embedded neurons. Figure 1 illustrates an overview of the workflow.
 
 
-.. figure:: _images/use_case_3_workflow_white.png
+.. figure:: _images/use_case3_workflow_white.png
    :figwidth: 95%
    :width: 90%
    :align: center
