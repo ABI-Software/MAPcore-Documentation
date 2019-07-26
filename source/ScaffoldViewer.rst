@@ -1,9 +1,12 @@
 .. _Scaffold-Viewer:
 
-Scaffold Viewer
-===============
 .. |open-control| image:: /_images/open_control.png
-                      :width: 2 em	
+                      :width: 2 em
+.. |scaffold-icon| image:: /_images/scaffold_map_icon.svg
+                      :width: 10 %
+
+|scaffold-icon| Scaffold Viewer
+===============================
 
 .. contents:: Contents:
    :local:
@@ -12,60 +15,65 @@ Scaffold Viewer
 
 Overview
 ********
-.. todo::
-	Examples of this tool in action are available (link to specific use case pages here).........
 
+Some datasets in the SPARC knowledgebase search results are registered to an *anatomical scaffold*: a three dimensional model of the anatomy of interest.
+This is indicated by the 3-D box icon shown at the top of this page. Clicking on the icon in search results opens a *Scaffold Viewer* tab in which the scaffold and embedded data can be viewed and interacted with in three dimensions.
+The following image of the Scaffold Viewer tab shows a fitted rat stomach scaffold with neurite data from Powley *et al*.
 
-This document describes how to use the scaffold viewer tool available on the SPARC Data Portal. Examples of this tool in action are available (link to specific use case pages here).
+.. figure:: _images/scaffold_viewer_tab.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+   :alt: Scaffold viewer tab
 
-.. todo::
-    write a short paragraph explaining the technology used here.
+Interaction and viewing
+***********************
+
+Moving the mouse pointer over the scaffold or embedded data highlights and overlays a label for what is under it.
+With an entity highlighted, clicking with the left button performs a search for the label terms in the SPARC knowledgebase.
+The search can bring up related datasets for the study allowing further viewer tabs to be opened.
+
+Interactively rotating, zooming and panning the view gives a greater understanding of the three dimensional structure.
+Hold down one of the mouse/controller buttons and drag to change the view. The following table lists the controls.
+
+========================= ==============
+Mouse controller action   Result
+========================= ==============
+Left button click         Search knowledgebase for highlighted entity
+------------------------- --------------
+Left button drag          Rotate
+------------------------- --------------
+Middle button drag, wheel Zoom
+------------------------- --------------
+Right button              Pan
+========================= ==============
+
+On some systems, e.g. Mac, modifier keys Ctrl, Alt etc. may be used in place of different buttons.
+
+Some Scaffold Views may contain time-varying or multi-state data.
+In these cases a slider control is shown to change the time or state, and a play button enables animation between states.
+These controls are shown in the above rat stomach Scaffold Viewer.
 
 Viewer configuration
-^^^^^^^^^^^^^^^^^^^^
-.. todo::
-    Add a basic description of the function of the viewer config widget to select what layers are active.
+********************
 
-The |open-control| icon at the top-left corner of this tool provides access to the configuration of this organ map viewer. This allows the user to choose which aspect of the mapped data to visualize, reset the view, etc.
+The |open-control| icon at the top-left corner of the window brings up a menu of additional viewing controls:
 	
-	* :guilabel:`Background` - provides an option to change the background color. 
+	* :guilabel:`Reset View` - restore the initial view of the scaffold to the default state.
 			
-	* :guilabel:`Speed` - adjusts the video's playback speed.
-	
-	* :guilabel:`Reset View` - restore the organ scaffold to the default state.
+	* :guilabel:`View All` - Zoom in or out to see all of the scaffold in its current orientation.
 			
-	* :guilabel:`View All` - reinstate the organ scaffold to the current working state.
+	* :guilabel:`Visibilty Controls` - checkboxes controlling visibility of each entity.
 			
-	* :guilabel:`Visibilty Control` - displays various checkboxes that toggle visibility of the meshes.
-			
-The :guilabel:`Close Controls` button closes the expanded controls panel.
-	
-Interactive Graphics Controls
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. todo::
-    Check these and add any that are missing. Need to include the various types of actions that the user can do.
+Clicking on the |open-control| icon closes this menu.
 
-The table below describes the effect of different user actions in the flatmap being displayed in this flatmap viewer.
+..
+  Examples
+  ********
 
-======================= ==============
-User action?            Result
-======================= ==============
-Left                    Query for data relevant to the anatomical entity selected
------------------------ --------------
-Middle 				    Zoom
------------------------ --------------
-Right 					Pan
-======================= ==============
+  Selected links to scaffold views from the SPARC data portal:
+  .. todo::
+  Examples of this tool in action are available (link to specific use case pages here).........
 
-
-
-
-
-
-
-
-
-
-
-
-
+  .. todo::
+   write a short paragraph explaining the technology used here.
