@@ -2,6 +2,10 @@ Mapping Cellular Gene Expression in the Rat Heart from Image to Scaffold
 =========================================================================
 .. |open-control| image:: /_images/open_control.png
                       :width: 2 em
+.. |data-icon| image:: /_images/data_icon.png
+                      :width: 2 em
+.. |scaffold-map-icon| image:: /_images/scaffold_map_icon.svg
+                      :width: 5%
 
 .. contents:: Contents:
    :local:
@@ -38,7 +42,7 @@ Follow these step-by-step instructions to familiarize yourself with the flow of 
    :width: 72%
    :align: center
 
-**Step 2**. Click on the cube icon.
+**Step 2**. Click on the |scaffold-map-icon| icon.
 
 .. figure:: _images/use_case_4/Step2.png
    :figwidth: 95%
@@ -77,7 +81,7 @@ Each cell has a unique ID.
    :width: 72%
    :align: center
 
-**Step 7**. Now, click on the bar chart icon.
+**Step 7**. Now, click on the |data-icon| icon.
 
 .. figure:: _images/use_case_4/Step7.png
    :figwidth: 95%
