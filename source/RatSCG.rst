@@ -27,11 +27,6 @@ Knowledge that links the above pathways provides a key means to discover multipl
    :width: 95%
    :align: center
 
-.. todo::
-	This document guides a user of the SPARC Data Portal through the steps required to .......
-	
-	Add link to final portal URL that takes user straight to this dataset display.
-
 Step-by-step instructions 
 *************************
 
@@ -71,47 +66,3 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :figwidth: 95%
    :width: 95%
    :align: center
-
-Working with the interface
-**************************
-This section explains how to use more specific features of the interface.
-	   
-:ref:`Flatmap-Viewer`
-^^^^^^^^^^^^^^^^^^^^^
-The :ref:`Flatmap-Viewer` represents a high-level view of overall connectivity of the autonomic nervous system.
-	
-:ref:`Scaffold-Viewer`
-^^^^^^^^^^^^^^^^^^^^^^
-:ref:`Scaffold-Viewer` is used to view the anatomical organ scaffold of the specific organ selected on the Flatmap.
-	
-:ref:`Data-Viewer`
-^^^^^^^^^^^^^^^^^^
-This viewer is used to view the *Electrocardiograph* data recorded with the experiment video. Refer the section :ref:`Data-Viewer`.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
