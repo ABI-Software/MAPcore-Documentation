@@ -1,15 +1,18 @@
 .. _Flatmap-Viewer:
 
-Flatmap Viewer
-==============
+.. |open-control| image:: /_images/open_control.png
+                      :width: 2 em
+
+.. |flatmap-icon| image:: /_images/flatmap_icon.png
+                      :width: 10 %
+					  
+|flatmap-icon| Flatmap Viewer
+=============================
 
 .. contents:: Contents:
    :local:
    :depth: 2
    :backlinks: top
-
-.. |open-control| image:: /_images/open_control.png
-                      :width: 2 em
 
 Overview
 ********
