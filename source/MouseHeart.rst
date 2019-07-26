@@ -1,6 +1,12 @@
 Mapping the Mouse Heart Neurites from Image to Scaffold
 ========================================================
 
+.. |scaffold-icon| image:: /_images/scaffold_icon.png
+                      :width: 2 em
+
+.. |open-control| image:: /_images/open_control.png
+                      :width: 2 em
+
 .. contents:: Contents: 
    :local:
    :depth: 2
@@ -25,59 +31,66 @@ Below is an **introductory video** which explains the mapping of the mouse heart
 
 .. raw:: html
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/B0JKztUZFio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/B0JKztUZFio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. todo::
-	This document guides a user of the SPARC Data Portal through the steps required to .......
-
-.. todo::
-    add link to final portal URL that takes user straight to this dataset display.
 
 Step-by-step instructions 
 *************************
-.. todo:: 
-		Write steps + screenshots
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-Explain the steps to be followed by the end user on the web interface. 
 
-#. Step 1 ....
+**Step 1**. The default **Result** column displays some of the use cases available on the portal. Click on
+*Mapping the Mouse Heart Neurites from Image to Scaffold* box.
 
-Add screenshot
-
-.. .. figure:: _images/snip
+.. figure:: _images/use_case_3/Slide1.PNG
    :figwidth: 61%
    :width: 51%
    :align: center
    
-#. Step 2 ....
+**Step 2** Now click on the |scaffold-icon| to open the **Scaffold Viewer** tab to visualise the heart scaffold.
 
-Add screenshot 
+.. figure:: _images/use_case_3/Slide2.PNG
+   :figwidth: 61%
+   :width: 51%
+   :align: center
 
-Working with the interface
-**************************
-This section explains how to use more specific features of the interface.
+**Step 3**. In the **Scaffold Viewer** tab, there are three objects visible: 1) fitted heart scaffold, 2) sham heart 44
+neurite tracing, 3) sham heart 4 neurite tracing.
 
-.. todo::
-      Highlight features/capabilities that are particular to this use-case.
-	   
-:ref:`Flatmap-Viewer`
-^^^^^^^^^^^^^^^^^^^^^
-The :ref:`Flatmap-Viewer` represents a high-level view of overall connectivity of the autonomic nervous system.
-	
-:ref:`Scaffold-Viewer`
-^^^^^^^^^^^^^^^^^^^^^^
-:ref:`Scaffold-Viewer` is used to view the anatomical organ scaffold of the specific organ selected on the Flatmap.
-	
-:ref:`Data-Viewer`
-^^^^^^^^^^^^^^^^^^
-This viewer is used to view the *Electrocardiograph* data recorded with the experiment video. Refer the section :ref:`Data-Viewer`.
+.. figure:: _images/use_case_3/Slide3.PNG
+   :figwidth: 61%
+   :width: 51%
+   :align: center
 
+**Step 4**. Click on |open-control| to open the control panel.
 
+.. figure:: _images/use_case_3/Slide4.PNG
+   :figwidth: 61%
+   :width: 51%
+   :align: center
 
+**Step 5**. Turn off Sham 4 neurons to only visualise the scaffold and Sham 44 neurons.
 
+.. figure:: _images/use_case_3/Slide5.PNG
+   :figwidth: 61%
+   :width: 51%
+   :align: center
 
+**Step 6**. Turn Sham 4 neurons back on and now turn off Sham 44 neurons to visualise the registered neurons on the scaffold
+surface.
+
+.. figure:: _images/use_case_3/Slide6.PNG
+   :figwidth: 61%
+   :width: 51%
+   :align: center
+
+**Step 7**. To visualise only the neurons, turn off the scaffold.
+
+.. figure:: _images/use_case_3/Slide7.PNG
+   :figwidth: 61%
+   :width: 51%
+   :align: center
 
 
 
