@@ -68,7 +68,7 @@ neurite tracing, 3) sham heart 4 neurite tracing.
    :width: 85%
    :align: center
 
-**Step 6**. **Turn Sham 4 neurons back on** and now **turn off Sham 44 neurons** to visualise the registered neurons on the scaffold
+**Step 5**. **Turn Sham 4 neurons back on** and now **turn off Sham 44 neurons** to visualise the registered neurons on the scaffold
 surface.
 
 .. figure:: _images/use_case_3/Slide6.PNG
@@ -76,7 +76,7 @@ surface.
    :width: 85%
    :align: center
 
-**Step 7**. To visualise only the neurons, **turn off the scaffold**.
+**Step 6**. To visualise only the neurons, **turn off the scaffold**.
 
 .. figure:: _images/use_case_3/Slide7.PNG
    :figwidth: 95%
