@@ -21,6 +21,9 @@ on the map.
 A map consists of a number of image and vector tiles at different resolutions stored on a server. These are
 displayed in the web-browser using similar technology to that used by interactive geographical maps.
 
+Usage
+*****
+
 Interactive map layers
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -31,12 +34,9 @@ active. When there is more than one interactive layer, the ``layer-switcher`` co
 Querying a map's features
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
 Some features in a layer are annotated as modelling one or more anatomical entities. These features show a
 tooltip when the mouse pointer hovers over them,  and knowledge about the feature can can be searched for by clicking
 on the highlighted feature.
-
-
 
 Some layers, such as the ``neural`` layer, have been configured to allow queries to also be made against
 the displayed ``nodes``. There are two types of such node queries:

@@ -1,2 +1,9 @@
 # Ignore any built documentation.
 build/
+
+# Ignore pyCharm project folder
+.idea/
+
+# Ignore pipenv files
+Pipfile
+Pipfile.lock
