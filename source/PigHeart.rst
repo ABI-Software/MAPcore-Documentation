@@ -69,14 +69,14 @@ some shear. This was a limitation as only one view angle was available. In futur
 to reconstruct a 3D view of the beating heart in order to accurately fit the scaffold and capture the deformation of cardiac
 tissue.
 
-.. figure:: _images/pig_slide3.gif
+.. figure:: _images/pig_slide4.gif
    :figwidth: 95%
    :width: 90%
    :align: center
 
 **Step 4:** By clicking on |open-control| you can control visibility of each of the graphical objects in the scene.
 
-.. figure:: _images/pig_slide4.png
+.. figure:: _images/pig_slide5.png
    :figwidth: 95%
    :width: 90%
    :align: center
