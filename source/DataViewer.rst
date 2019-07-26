@@ -18,7 +18,7 @@ This document describes how to use the data plotting viewer tool available on th
 
 This module has the ability to:
 
-    - Plot electrophysiological CSV datasets in thge knowledgbase or Blackfynn.
+    - Plot electrophysiological CSV datasets in the knowledgbase or Blackfynn.
     - Plot genome and other static CSV datasests.
     - Navigate large datasets via the user interface.
     - Add and remove channels from a plot and export them.
