@@ -1,9 +1,5 @@
-
 Rat Superior Cervical Ganglion
 ==============================
-.. todo::
-		Title for this usecase.
-			   
 .. contents:: Contents: 
    :local:
    :depth: 2
