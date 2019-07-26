@@ -1,7 +1,9 @@
-
 3D Mapping and Visualization of 2D Experimental Data Stomach Afferents and Efferents
 ====================================================================================
 			   
+.. |scaffold-icon| image:: /_images/scaffold_map_icon.png
+                      :width: 2 em
+
 .. contents:: Contents: 
    :local:
    :depth: 2
@@ -9,8 +11,37 @@
    
 Overview
 ********
-.. todo::
-    add link to final portal URL that takes user straight to this dataset display.
+
+A 3D scaffold of the rat stomach created using segmented microCT data from the Powley group is shown in a 3D window. The neurites including nerve endings (both IGLEs and IMAs) are displayed on the 3D scaffold. The scaffold can be cut and opened out flat to match the experimental whole-mount preparation and to then display the experimental data. Note that 152 neurite maps (from 152 different rats) were each registered to a fitted scaffold for each rat and then morphed into the average flat mount scaffold. The data and models can also be seen at varying levels of stomach fills. This use-case demonstrates both the application of neural pathway data to the stomach, the use of a transformation between the normal 3D stomach anatomy and the 2D whole-mount preparation, and the ability to visualize data at varying levels of organ state (empty to full).  
+
+Step-by-step instructions 
+*************************
+
+Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
+
+**Step 1**. Click on the Stomach on the flatmap to generate search results. Alternatively, perform a search using keyword stomach or UBERON:0000945.
+
+.. figure:: _images/stomach_1.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+
+**Step 2**. Select **Spatial distribution and morphometric characterization of vagal afferents (specifically: intramuscular arrays (IMAs)) within the longitudinal and circular muscle layers of the rat stomach** from the search results. Click on the scaffold icon (|scaffold-icon|).
+
+.. figure:: _images/stomach_2.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+
+**Step 3**. Allow a few seconds for the scaffold to load. Navigate between the 3D scaffold and layers view using the slider. Click on the play button to automate toggle between the configurations.
+
+.. figure:: _images/stomach_3.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+
+How it is achieved?
+*******************
 
 A statistically representative and anatomically-based 3D scaffold of the rat stomach was created to map 230 nerve ending pathways traced from 68 2D rat stomach whole mounts. Micro-CT image data of 11 animals with an average volume of 9.9cm3 were used to construct this 3D scaffold. Imaging and subsequent data segmentation was performed at the Powley laboratory in Purdue University using MBF bioscience software Neurolucida. 
 Initially, an approximate surface was generated for each case using gross morphometric measurements of the organ. These surfaces were then fitted to the segmented data using University of Auckland Bioengineering software (fig. 1). The fitted scaffolds surfaces (11) were combined to form an average stomach surface (fig 2). A representative tissue thickness throughout the organ inferred by careful examination of all segmented data sets was included to generate the final 3D scaffold (fig 3).
@@ -55,61 +86,4 @@ The neurites consisted of three types of afferents- longitudinal intramuscular a
    :figwidth: 95%
    :width: 95%
    :align: center     
-   
-   
-   
-
-
-Step-by-step instructions 
-*************************
-.. todo:: 
-		Write steps + screenshots
-
-Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
-
-Explain the steps to be followed by the end user on the web interface. 
-
-#. Step 1 ....
-
-Add screenshot
-
-.. .. figure:: _images/snip
-   :figwidth: 61%
-   :width: 51%
-   :align: center
-   
-#. Step 2 ....
-
-Add screenshot 
-
-Working with the interface
-**************************
-This section explains how to use more specific features of the interface.
-
-.. todo::
-      Highlight features/capabilities that are particular to this use-case.
-	   
-:ref:`Flatmap-Viewer`
-^^^^^^^^^^^^^^^^^^^^^
-The :ref:`Flatmap-Viewer` represents a high-level view of overall connectivity of the autonomic nervous system.
-	
-:ref:`Scaffold-Viewer`
-^^^^^^^^^^^^^^^^^^^^^^
-:ref:`Scaffold-Viewer` is used to view the anatomical organ scaffold of the specific organ selected on the Flatmap.
-	
-:ref:`Data-Viewer`
-^^^^^^^^^^^^^^^^^^
-This viewer is used to view the *Electrocardiograph* data recorded with the experiment video. Refer the section :ref:`Data-Viewer`.
-
-
-
-
-
-
-
-
-
-
-
-
 
