@@ -1,8 +1,9 @@
-.. _Data-Viewer:
 
-Data Viewer
-===========
-
+.. |data-icon| image:: /_images/data_icon.png					  
+					:width: 10 %
+						
+|data-icon| Data Viewer
+=======================
 A module of the data portal designed for viewing and exporting Ephys and Genome data.  
 
 .. contents:: Contents:
