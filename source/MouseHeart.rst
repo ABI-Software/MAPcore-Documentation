@@ -55,8 +55,8 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :width: 51%
    :align: center
 
-**Step 3**. In the **Scaffold Viewer** tab, there are three objects visible: 1) fitted heart scaffold, 2) sham heart 44 neurite
-tracing, 3) sham heart 4 neurite tracing.
+**Step 3**. In the **Scaffold Viewer** tab, there are three objects visible: 1) fitted heart scaffold, 2) sham heart 44
+neurite tracing, 3) sham heart 4 neurite tracing.
 
 .. figure:: _images/use_case3/Slide3.PNG
    :figwidth: 61%
@@ -68,7 +68,7 @@ tracing, 3) sham heart 4 neurite tracing.
 .. figure:: _images/use_case3/Slide4.PNG
    :figwidth: 61%
    :width: 51%
-   :align: center#. Step 4. Click on |open-control| to open the control panel.
+   :align: center
 
 **Step 5**. Turn off Sham 4 neurons to only visualise the scaffold and Sham 44 neurons.
 
