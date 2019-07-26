@@ -1,10 +1,10 @@
 
-.. |data-icon| image:: /_images/data_icon.png					  
+.. |data-icon| image:: /_images/data_icon.png
 					:width: 10 %
-						
+
 |data-icon| Data Viewer
 =======================
-A module of the data portal designed for viewing and exporting Ephys and Genome data.  
+A module of the data portal designed for viewing and exporting Ephys and Genome data.
 
 .. contents:: Contents:
    :local:
@@ -14,25 +14,25 @@ A module of the data portal designed for viewing and exporting Ephys and Genome 
 Overview
 ********
 
-This document describes how to use the data plotting viewer tool available on the SPARC Data Portal. Examples of this tool in action are available at: https://data-viewer-demo.netlify.com/
+This document describes how to use the data plotting viewer tool available on the SPARC Data Portal. Examples of this tool in action are available at https://data-viewer-demo.netlify.com/.
 
-This module has the ability to: 
+This module has the ability to:
 
-    - Plot Ephys CSV datasets on knowledgbase or Blackfynn.
-    - Plot Genome and other static CSV datasests.
-    - Navigate large datasets via the UI.
-    - Add and remove channels from plot and export.
-    - Export selected channels as CSV for use in Excel, or OpenCOR
+    - Plot electrophysiological CSV datasets in thge knowledgbase or Blackfynn.
+    - Plot genome and other static CSV datasests.
+    - Navigate large datasets via the user interface.
+    - Add and remove channels from a plot and export them.
+    - Export selected channels as CSV for use in Excel or `OpenCOR <https://opencor.ws/>`_.
 
-Viewer configuration
+Viewer Configuration
 ********************
 
-The viewer has two modes, for small and large datasests
+The viewer has two modes, for small and large datasests.
 
 Small Datasets
 --------------
 
-Used for smaller datasets and has more control over exports. (All checked channels will be exported)
+This mode is used for smaller datasets and has more control over exports. (All checked channels will be exported.)
 
 .. figure:: _images/exportmode.png
    :figwidth: 95%
@@ -42,7 +42,7 @@ Used for smaller datasets and has more control over exports. (All checked channe
 Large Datasets
 --------------
 
-Used to navigate larger datasets, it has search capability to plot desired channels
+This mode is used to navigate larger datasets. It has search capability to plot the desired channels.
 
 .. figure:: _images/viewmode.png
    :figwidth: 95%
@@ -52,7 +52,7 @@ Used to navigate larger datasets, it has search capability to plot desired chann
 Interactive Graphics Controls
 *****************************
 
-* Refine the view by draging over a region of interest
+You can refine the view by draging over a region of interest.
 
 .. figure:: _images/plot_refine.jpg
    :figwidth: 95%
@@ -66,33 +66,30 @@ Interactive Graphics Controls
    :width: 90%
    :align: center
 
-* Add or remove data by clicking on it's label
+You can also add or remove data by clicking on its label.
 
 .. figure:: _images/select_channel.jpg
    :figwidth: 45%
    :width: 80%
    :align: center
 
-The table below describes the effect of different user actions in the flatmap being displayed in this flatmap viewer.
+The table below describes the effect of different user actions in the flatmap being displayed.
 
 ======================= ==============
-User action             Result
+Mouse action            Result
 ======================= ==============
-Left                    Zoom in via box selection
+``left-click``          Zoom in via box selection
 ----------------------- --------------
-Middle 				    Zoom in via box selection
+``middle-click``        Zoom in via box selection
 ----------------------- --------------
-Right 					None
------------------------ --------------
-Double click			Reset View
+``double-click``        Reset the view
 ======================= ==============
 
 
 CSV (Comma-Separated Values) Exports
 ************************************
 
-CSV files for use in Excel, OpenCOR, or your software of choice are available for export. 
-The selected data traces plotted will be exported into a version that is either CSV and/or OpenCOR compatible.
+The selected data traces plotted are exported to a CSV file for use in Excel, OpenCOR or any CSV-capable software.
 
 Export as CSV
 -------------
