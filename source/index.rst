@@ -10,7 +10,7 @@ The `SPARC Portal <https://data.sparc.science>`_ provides interactive access to 
 
 Here, we provide instructions on how to use the various `map visualization and interaction tools <https://data.sparc.science/map>`_ available on the SPARC Portal, as well as detailed instructions guiding users of the portal through specific exemplar use cases. These specific use cases highlight various types of data and visualizations that are available.
 
-A collection of introductory videos are available on the `MAP-Core youtube channel <https://www.youtube.com/channel/UCYlrpP6SrWL0kDZ31we_sqw>`_.
+A collection of introductory videos are available on the `MAP-Core YouTube channel <https://www.youtube.com/channel/UCYlrpP6SrWL0kDZ31we_sqw>`_.
 
 .. toctree::
    :maxdepth: 2
@@ -30,8 +30,7 @@ A collection of introductory videos are available on the `MAP-Core youtube chann
    RatStomach
    RatSCG
    MouseColon
-   UC10
-
+   
 .. toctree::
    :hidden:
 
