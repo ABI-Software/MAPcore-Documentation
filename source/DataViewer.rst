@@ -52,7 +52,7 @@ This mode is used to navigate larger datasets. It has search capability to plot 
 Interactive Graphics Controls
 *****************************
 
-You can refine the view by draging over a region of interest.
+You can refine the view by dragging over a region of interest.
 
 .. figure:: _images/plot_refine.jpg
    :figwidth: 95%

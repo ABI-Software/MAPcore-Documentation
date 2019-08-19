@@ -50,7 +50,7 @@ the image-scaffold structure. Each cell will have electro-physiological data pro
    :width: 95%
    :align: center
 
-**Step 4**. Click on |open-control| to open the control panel. You can select different sweep or channel data for that cell in this tab to visualise at the same time.
+**Step 4**. Click on |open-control| to open the control panel. You can select different sweep or channel data for that cell in this tab to visualise both simultaneously.
 You can also export the data as a CSV format file.
 
 .. figure:: _images/sg_snip3.png
