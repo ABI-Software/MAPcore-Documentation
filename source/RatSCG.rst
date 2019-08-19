@@ -42,21 +42,21 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :width: 95%
    :align: center
    
-**Step 3**. Neuronal routes conveyed by the SLN as shown below.
+Neuronal routes conveyed by the SLN as shown below.
 
 .. figure:: _images/uc9_4.png
    :figwidth: 95%
    :width: 95%
    :align: center
 
-**Step 4**. *Left-click* on ‘Find nodes and edges connected to node’ to find data relevant to structures connected by the selected nerve.
+**Step 3**. *Left-click* on ‘Find nodes and edges connected to node’ to find data relevant to structures connected by the selected nerve.
 
 .. figure:: _images/uc9_5.png
    :figwidth: 95%
    :width: 95%
    :align: center
    
-**Step 5**. Structures connected by the SLN as shown below.
+Structures connected by the SLN as shown below.
 
 .. figure:: _images/uc9_6.png
    :figwidth: 95%

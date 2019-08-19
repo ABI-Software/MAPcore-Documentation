@@ -42,14 +42,14 @@ Follow these step-by-step instructions to familiarize yourself with the flow of 
    :width: 72%
    :align: center
 
-**Step 2**. Click on the |scaffold-map-icon| icon.
+**Step 2**. Click on the |scaffold-map-icon| icon located in the *Molecular Phenotype Distribution of Single Rat ICN Neurons* box.
 
 .. figure:: _images/use_case_4/Step2.png
    :figwidth: 95%
    :width: 72%
    :align: center
 
-**Step 3**. The Scaffold Viewer tab opens and the fitted heart scaffold can be visualized.
+The Scaffold Viewer tab opens and the fitted heart scaffold can be visualized.
 A number of lifted neuronal cells have been mapped and registered on the scaffold (purple spheres).
 
 .. figure:: _images/use_case_4/Step3.png
@@ -57,7 +57,7 @@ A number of lifted neuronal cells have been mapped and registered on the scaffol
    :width: 72%
    :align: center
 
-**Step 4**. Click on the |open-control| icon to pop up the drop-down menu.
+**Step 3**. Click on the |open-control| icon to pop up the drop-down menu.
 Visibility can be turned *on* or *off* for each item.
 
 .. figure:: _images/use_case_4/Step4.png
@@ -65,14 +65,14 @@ Visibility can be turned *on* or *off* for each item.
    :width: 72%
    :align: center
 
-**Step 5**. Hover on the different regions to highlight the chambers separately.
+**Step 4**. Hover on the different regions to highlight the chambers separately.
 
 .. figure:: _images/use_case_4/Step5.png
    :figwidth: 95%
    :width: 72%
    :align: center
 
-**Step 6**. Each cell has been lifted and assayed for the expression of 154 genes selected as associated with neuromodulation and cardiac function using qPCR or RNASeq.
+Each cell has been lifted and assayed for the expression of 154 genes selected as associated with neuromodulation and cardiac function using qPCR or RNASeq.
 These have been mapped on the registered cells on the scaffold.
 Each cell has a unique ID.
 
@@ -81,14 +81,14 @@ Each cell has a unique ID.
    :width: 72%
    :align: center
 
-**Step 7**. Now, click on the |data-icon| icon.
+**Step 5**. Now, click on the |data-icon| icon.
 
 .. figure:: _images/use_case_4/Step7.png
    :figwidth: 95%
    :width: 72%
    :align: center
 
-**Step 8**. The Data Viewer tab opens to view the gene expression data.
+The Data Viewer tab opens to view the gene expression data.
 At this point, the data can only viewed using a bar chart.
 However, additional visualization capabilities, such as heatmap and clustering, will be available in the future.
 
@@ -97,14 +97,14 @@ However, additional visualization capabilities, such as heatmap and clustering, 
    :width: 72%
    :align: center
 
-**Step 9**. From the drop-down menu, more genes can be added to the bar chart.
+**Step 6**. Add more genes to the bar chart by expanding the drop-down menu.
 
 .. figure:: _images/use_case_4/Step9.png
    :figwidth: 95%
    :width: 72%
    :align: center
 
-**Step 10**. The bar chart will show the expression of each gene using a unique color for all the registered cells on the scaffold.
+The bar chart will show the expression of each gene using a unique color for all the registered cells on the scaffold.
 
 .. figure:: _images/use_case_4/Step10.png
    :figwidth: 95%

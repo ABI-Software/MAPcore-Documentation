@@ -32,7 +32,7 @@ Step-by-step instructions
 *************************
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-**Step 1.** Click on the **Lungs** on the flatmap to generate search results for lungs.
+**Step 1.** Search for keyword **Lungs**.
 
 .. figure:: _images/lungs_01.png
    :figwidth: 95%
@@ -53,7 +53,7 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :width: 95%
    :align: center
 
-**Step 4.** Click on |open-control| icon for drop-down menu. Select only RML10x007 checkbox and zoom to view the confocal images in the right middle lobe(RML).
+**Step 4.** To view only the confocal image in the right middle lobe (RML), select only RML10x007 checkbox after clicking on |open-control| icon for drop-down menu.
 
 .. figure:: _images/lungs_04.png
    :figwidth: 95%

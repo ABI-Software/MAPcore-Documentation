@@ -28,7 +28,7 @@ Step-by-step instructions
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-**Step 1**. Click on the **Colon** on the flatmap to generate search results for colon. Alternatively, perform a search using keyword *colon* or *UBERON:0001155*.
+**Step 1**. Perform a search using keyword *colon* or *UBERON:0001155*.
 
 .. figure:: _images/colon_step1.png
    :figwidth: 95%

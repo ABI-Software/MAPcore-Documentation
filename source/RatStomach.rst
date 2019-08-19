@@ -12,14 +12,14 @@
 Overview
 ********
 
-A 3D scaffold of the rat stomach created using segmented microCT data from the Powley group is shown in a 3D window. The neurites including nerve endings (both IGLEs and IMAs) are displayed on the 3D scaffold. The scaffold can be cut and opened out flat to match the experimental whole-mount preparation and to then display the experimental data. Note that 152 neurite maps (from 152 different rats) were each registered to a fitted scaffold for each rat and then morphed into the average flat mount scaffold. The data and models can also be seen at varying levels of stomach fills. This use-case demonstrates both the application of neural pathway data to the stomach, the use of a transformation between the normal 3D stomach anatomy and the 2D whole-mount preparation, and the ability to visualize data at varying levels of organ state (empty to full).  
+A 3D scaffold of the rat stomach created using segmented microCT data from the Powley group is shown in a 3D window. The neurites including nerve endings (both IGLEs and IMAs) are displayed on the 3D scaffold. The scaffold can be cut and opened out flat to match the experimental whole-mount preparation, and to then display the experimental data. Note that 152 neurite maps (from 152 different rats) were each registered to a fitted scaffold for each rat and then morphed into the average flat mount scaffold. The data and models can also be seen at varying levels of stomach fills. This use-case demonstrates both the application of neural pathway data to the stomach, the use of a transformation between the normal 3D stomach anatomy and the 2D whole-mount preparation, and the ability to visualize data at varying levels of organ state (empty to full).  
 
 Step-by-step instructions 
 *************************
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-**Step 1**. Click on the Stomach on the flatmap to generate search results. Alternatively, perform a search using keyword stomach or UBERON:0000945.
+**Step 1**. Click on the Stomach on the flatmap to generate search results. Alternatively, perform a search using keyword *stomach*, or UBERON:0000945.
 
 .. figure:: _images/stomach_1.png
    :figwidth: 95%
