@@ -8,7 +8,7 @@ Rat Superior Cervical Ganglion
 Overview
 ********
 
-Mapping of neuroanatomical connectivity is illustrated using rat superior cervical ganglion (SCG) data from Steve Lewis’ group at CWRU and rat brainstem data from Don Bolser’s group at UFL. This knowledge is modelled in `ApiNATOMY <http://open-physiology.org/demo/open-physiology-viewer/docs/>`_, and assimilated into the SPARC SciGraph, to demonstrate cross-domain data linkage. The Bolser and Lewis work has three major areas of physiological complementarity:
+Mapping of neuroanatomical connectivity is illustrated using rat superior cervical ganglion (SCG) data from Steve Lewis’ group at CWRU and rat brainstem data from Don Bolser’s group at UFL. This knowledge is assimilated into the SPARC SciGraph, to demonstrate cross-domain data linkage. The Bolser and Lewis work has three major areas of physiological complementarity:
 
 **Larynx/Trachea**: The sensory (Bolser) and motor (Lewis) limbs of protective mechanisms for the upper respiratory tract are captured in the connectivity model. 
 
