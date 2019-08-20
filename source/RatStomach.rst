@@ -19,21 +19,15 @@ Step-by-step instructions
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-**Step 1**. Click on the Stomach on the flatmap to generate search results. Alternatively, perform a search using keyword *stomach*, or UBERON:0000945.
-
-.. figure:: _images/stomach_1.png
-   :figwidth: 95%
-   :width: 95%
-   :align: center
-
-**Step 2**. Select **Spatial distribution and morphometric characterization of vagal afferents (specifically: intramuscular arrays (IMAs)) within the longitudinal and circular muscle layers of the rat stomach** from the search results. Click on the scaffold icon (|scaffold-icon|).
+**Step 1**. The default **Result** column displays the use cases available on the portal. Click on the
+*3D Mapping and Visualization of 2D Experimental Data Stomach Afferents and Efferents* box. Click on the scaffold icon (|scaffold-icon|).
 
 .. figure:: _images/stomach_2.png
    :figwidth: 95%
    :width: 95%
    :align: center
 
-**Step 3**. Allow a few seconds for the scaffold to load. Navigate between the 3D scaffold and layers view using the slider. Click on the play button to automate toggle between the configurations.
+**Step 2**. Allow a few seconds for the scaffold to load. Navigate between the 3D scaffold and layers view using the slider. Click on the play button to automate toggle between the configurations.
 
 .. figure:: _images/stomach_3.png
    :figwidth: 95%
