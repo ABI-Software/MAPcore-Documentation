@@ -28,14 +28,21 @@ Step-by-step instructions
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-**Step 1**. *Right-click* on **pink rectangles** that symbolizes portion of nerve.
+**Step 1**. Select **Neural system** from the drop-down menu |open-control| on the human flatmap.
+
+.. figure:: _images/uc9_0.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+   
+**Step 2**. *Right-click* on **pink rectangles** that symbolizes portion of nerve.
 
 .. figure:: _images/uc9_2.png
    :figwidth: 95%
    :width: 95%
    :align: center
 
-**Step 2**. *Left-click* on ‘Find edges connected to node’ to find neuronal routes conveyed by the selected nerve.
+**Step 3**. *Left-click* on ‘Find edges connected to node’ to find neuronal routes conveyed by the selected nerve.
 
 .. figure:: _images/uc9_3.png
    :figwidth: 95%
@@ -49,7 +56,7 @@ Neuronal routes conveyed by the SLN as shown below.
    :width: 95%
    :align: center
 
-**Step 3**. *Left-click* on ‘Find nodes and edges connected to node’ to find data relevant to structures connected by the selected nerve.
+**Step 4**. *Left-click* on ‘Find nodes and edges connected to node’ to find data relevant to structures connected by the selected nerve.
 
 .. figure:: _images/uc9_5.png
    :figwidth: 95%
