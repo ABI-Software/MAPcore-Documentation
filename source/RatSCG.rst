@@ -49,7 +49,7 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :width: 95%
    :align: center
    
-Neuronal routes conveyed by the SLN as shown below.
+For example, neuronal routes conveyed by the SLN as shown below.
 
 .. figure:: _images/uc9_4.png
    :figwidth: 95%
@@ -63,7 +63,7 @@ Neuronal routes conveyed by the SLN as shown below.
    :width: 95%
    :align: center
    
-Structures connected by the SLN as shown below.
+For example, structures connected by the SLN as shown below.
 
 .. figure:: _images/uc9_6.png
    :figwidth: 95%

@@ -32,7 +32,7 @@ Step-by-step instructions
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-**Step 1:** The default **Result** column displays some of the use cases available on the portal. Click on
+**Step 1:** The default **Result** column displays some of the use cases available on the portal. Click on the
 *Mapping Cardiac Electromechanics in the Pig* box.
 
 .. figure:: _images/pig_slide1.png
@@ -71,7 +71,9 @@ Press **play** to see the video.
    :width: 90%
    :align: center
 
-**Future Steps:** In the current version, the scaffold has only been fitted to the video data through anisotropic scaling and
+Future Steps
+*************************
+In the current version, the scaffold has only been fitted to the video data through anisotropic scaling and
 some shear. This was a limitation as only one view angle was available. In future, a stereo camera system will be installed
 to reconstruct a 3D view of the beating heart in order to accurately fit the scaffold and capture the deformation of cardiac
 tissue.
