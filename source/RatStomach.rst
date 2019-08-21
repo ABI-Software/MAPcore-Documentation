@@ -45,7 +45,7 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    
 **Step 4**. Click on a yellow sphere. In the left panel inset, a link to a light microscopy image of the neurites in the corresponding location on the fitted scaffold is visible.
    
-.. figure:: _images/stomach_5.png
+.. figure:: _images/stomach_5_1.png
    :figwidth: 95%
    :width: 95%
    :align: center
