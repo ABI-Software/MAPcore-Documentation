@@ -12,7 +12,9 @@
 Overview
 ********
 
-A 3D scaffold of the rat stomach created using segmented microCT data from the Powley group is shown. The neurites including nerve endings (both intraganglionic laminar endings (IGLEs) and longitudinal intramuscular arrays (IMAs) are displayed on the 3D scaffold. The scaffold can be cut and opened out flat to match the experimental whole-mount preparation, and to then display the experimental data. Note that 152 neurite maps (from 152 different rats) were each registered to a fitted scaffold for each rat and then morphed into the average flat mount scaffold. The data and models can also be seen at varying levels of stomach fills. This use-case demonstrates both the application of neural pathway data to the stomach, the use of a transformation between the normal 3D stomach anatomy and the 2D whole-mount preparation, and the ability to visualize data at varying levels of organ state (empty to full).  
+A 3D scaffold of the rat stomach created using segmented microCT data from the Powley group is shown. The neurites including nerve endings (both intraganglionic laminar endings (IGLEs) and longitudinal intramuscular arrays (IMAs) are displayed on the 3D scaffold. The scaffold can be cut and opened out flat to match the experimental whole-mount preparation, and to then display the experimental data. Note that 152 neurite maps (from 152 different rats) were each registered to a fitted scaffold for each rat and then morphed into the average flat mount scaffold. 
+At specific locations on the scaffold, the corresponding microscopy image of the neurite can be seen via Biolucida.
+This use-case demonstrates both the application of neural pathway data to the stomach and the use of a transformation between the normal 3D stomach anatomy and the 2D whole-mount preparation.
 
 Step-by-step instructions 
 *************************
@@ -33,12 +35,26 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :figwidth: 95%
    :width: 95%
    :align: center
+   
+**Step 3**. Under unexpanded view, right-click and drag to rotate the scaffold. On the longitudinal ventral surface, locate 3 yellow spheres, which represent distinct neurites. 
 
+.. figure:: _images/stomach_4.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+   
+**Step 4**. Click on a yellow sphere. In the left panel inset, a link to a light microscopy image of the neurites in the corresponding location on the fitted scaffold is visible.
+   
+.. figure:: _images/stomach_5.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+   
 Scaffold Generation
 *******************
 
 A statistically representative and anatomically-based 3D scaffold of the rat stomach was created to map nerve ending pathways. Micro-CT image data of 11 animals were used to construct this 3D scaffold. Imaging and  data segmentation was performed at the Powley laboratory using Neurolucida (MBF Bioscience). 
-An approximate surface was generated for each case using gross morphometric measurements of the organ. These surfaces were then fitted to the segmented data using University of Auckland Bioengineering software (Fig. 1). The fitted scaffolds surfaces were combined to form an average stomach surface of representative thickness to generate the 3D scaffold, which was subsequently split into three anatomically-distinct tissue layers.
+An approximate surface was generated for each case using gross morphometric measurements of the organ. These surfaces were then fitted to the segmented data (Fig. 1). The fitted scaffolds surfaces were combined to form an average stomach surface of representative thickness to generate the 3D scaffold, which was subsequently split into three anatomically-distinct tissue layers.
 
 .. figure:: _images/stomach_fig1.png
    :figwidth: 95%
@@ -62,4 +78,5 @@ The neurites consisted of three types of afferents- IMAs, IGLEs and circular IMA
 Future Steps
 *************************
 
-Plans are under way to acquire more detailed high-resolution images to better understand the tissue structural composition. Once that information is available, the 3D scaffold’s tissue layers will be updated accordingly. 
+Plans are under way to acquire more detailed high-resolution images to better understand the tissue structural composition and vasculature. Once  available, the 3D scaffold’s tissue layers will be updated accordingly. 
+This includes having the data and models being visualized at varying levels of stomach fills i.e. empty to full states.
