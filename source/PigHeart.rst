@@ -71,6 +71,18 @@ Press **play** to see the video.
    :width: 90%
    :align: center
 
+
+Scaffold Generation
+*************************
+
+The following Figure depicts the workflow for the generation of the 3D scaffold.
+
+.. figure:: _images/pig_workflow.png
+   :figwidth: 95%
+   :width: 90%
+   :align: center
+
+
 Future Steps
 *************************
 In the current version, the scaffold has only been fitted to the video data through anisotropic scaling and
