@@ -15,30 +15,18 @@ Mapping the Mouse Heart Neurites from Image to Scaffold
 Overview
 ********
    
-Mouse heart immunohistochemical mapping of neural pathways in cleared heart (sham heart 4) stained with PGP9.5
+Immunohistochemical mapping of neural pathways in cleared heart (sham heart 4) stained with PGP9.5
 (glycoprotein surface axonal antibody labelling) from the Shivkumar/Pradeep group is displayed in a 3D mouse heart
 scaffold that has been fitted to the segmented heart surface data from Sham Heart 44, which provides a more extensive
 geometric dataset. Future experiments are likely to provide much better quality mouse data for both the heart's anatomy
-and its embedded neurons. Figure 1 illustrates an overview of the workflow.
-
-.. figure:: _images/use_case3_workflow_white.png
-   :figwidth: 95%
-   :width: 95%
-   :align: center
-
-Below is an **introductory video** which explains the mapping of the mouse heart neurites from image to scaffold.
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/B0JKztUZFio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+and its embedded neurons. 
 
 Step-by-step instructions 
 *************************
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-**Step 1**. The default **Result** column displays some of the use cases available on the portal. Click on
+**Step 1**. The default **Result** column displays the use cases available on the portal. Click on the
 *Mapping the Mouse Heart Neurites from Image to Scaffold* box.
 
 .. figure:: _images/use_case_3/Slide1.PNG
@@ -46,7 +34,7 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :width: 85%
    :align: center
    
-**Step 2** Now click on the |scaffold-icon| to open the **Scaffold Viewer** tab to visualise the heart scaffold.
+**Step 2** Click on the |scaffold-icon| to open the **Scaffold Viewer** tab to visualise the heart scaffold.
 
 .. figure:: _images/use_case_3/Slide2.PNG
    :figwidth: 95%
@@ -83,5 +71,18 @@ surface.
    :width: 85%
    :align: center
 
+Scaffold Generation
+*************************
 
+The following figure illustrates an overview of the workflow for the generation of the 3D scaffold.
 
+.. figure:: _images/use_case3_workflow_white.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+
+Below is an **introductory video** which explains the mapping of the mouse heart neurites from image to scaffold.
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/B0JKztUZFio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

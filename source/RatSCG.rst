@@ -8,7 +8,7 @@ Rat Superior Cervical Ganglion
 Overview
 ********
 
-Mapping of neuroanatomical connectivity is illustrated using rat superior cervical ganglion (SCG) data from Steve Lewis’ group at CWRU and rat brainstem data from Don Bolser’s group at UFL. This knowledge is modelled in `ApiNATOMY <http://open-physiology.org/demo/open-physiology-viewer/docs/>`_, and assimilated into the SPARC SciGraph, to demonstrate cross-domain data linkage. The Bolser and Lewis work has three major areas of physiological complementarity:
+Mapping of neuroanatomical connectivity is illustrated using rat superior cervical ganglion (SCG) data from Steve Lewis’ group at CWRU and rat brainstem data from Don Bolser’s group at UFL. This knowledge is assimilated into the SPARC SciGraph, to demonstrate cross-domain data linkage. The Bolser and Lewis work has three major areas of physiological complementarity:
 
 **Larynx/Trachea**: The sensory (Bolser) and motor (Lewis) limbs of protective mechanisms for the upper respiratory tract are captured in the connectivity model. 
 
@@ -28,21 +28,28 @@ Step-by-step instructions
 
 Follow these step-by-step instructions to familiarise yourself with the flow of the web interface.
 
-**Step 1**. *Right-click* on **pink rectangles** that symbolizes portion of nerve.
+**Step 1**. Select **Neural system** from the drop-down menu |open-control| on the human flatmap.
+
+.. figure:: _images/uc9_0.png
+   :figwidth: 95%
+   :width: 95%
+   :align: center
+   
+**Step 2**. *Right-click* on **pink rectangles** that symbolizes portion of nerve.
 
 .. figure:: _images/uc9_2.png
    :figwidth: 95%
    :width: 95%
    :align: center
 
-**Step 2**. *Left-click* on ‘Find edges connected to node’ to find neuronal routes conveyed by the selected nerve.
+**Step 3**. *Left-click* on ‘Find edges connected to node’ to find neuronal routes conveyed by the selected nerve.
 
 .. figure:: _images/uc9_3.png
    :figwidth: 95%
    :width: 95%
    :align: center
    
-**Step 3**. Neuronal routes conveyed by the SLN as shown below.
+For example, neuronal routes conveyed by the SLN as shown below.
 
 .. figure:: _images/uc9_4.png
    :figwidth: 95%
@@ -56,7 +63,7 @@ Follow these step-by-step instructions to familiarise yourself with the flow of 
    :width: 95%
    :align: center
    
-**Step 5**. Structures connected by the SLN as shown below.
+For example, structures connected by the SLN as shown below.
 
 .. figure:: _images/uc9_6.png
    :figwidth: 95%
